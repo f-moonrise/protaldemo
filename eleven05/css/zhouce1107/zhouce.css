@@ -1,0 +1,137 @@
+#fs-beijing {
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:100%;
+    z-index:-10;
+    float:right;
+}
+#fs-xa{
+    height:500px;
+    width:500px;
+    display:flex;
+    align-items:center;
+    margin:auto;
+    margin-top:100px;
+
+    /*border:5px black solid;*/
+}
+.circle{
+    width:280px;
+    height:280px;
+    background-color:#65717A;
+    border-radius:50%;
+    position:relative;
+    margin:auto;
+    /*opacity:1;*/
+}
+/**/
+.zhonglei{
+
+    height:350px;
+    width:350px;
+    float:right;
+    top:-40px;
+    /*margin:auto;*/
+    right:-40px;
+    /*border:5px yellow solid;*/
+    opacity:1;
+    /*text-align:center;*/
+    position:relative;
+
+
+
+}
+#fs-xxa{
+    position:absolute;
+    top:25px;
+    right:70px;
+}
+#fs-xxb{
+    position:absolute;
+    top:25px;
+    right:250px;
+
+}
+#fs-xxc{
+    position:absolute;
+    top:100px;
+    right:10px;
+
+}
+#fs-xxd{
+    position:absolute;
+    top:100px;
+    right:310px;
+
+}
+#fs-xxe{
+    position:absolute;
+    top:190px;
+    right:7px;
+
+}
+#fs-xxf{
+    position:absolute;
+    top:190px;
+    right:313px;
+
+}
+#fs-xxg{
+    position:absolute;
+    top:280px;
+    right:65px;
+
+}
+#fs-xxh{
+    position:absolute;
+    top:280px;
+    right:255px;
+
+}
+#fs-xxi{
+    position:absolute;
+    top:130px;
+    right:210px;
+    width:80px;
+    height:80px;
+
+}
+#fs-xxj{
+    position:absolute;
+    top:130px;
+    right:70px;
+    width:80px;
+    height:80px;
+}
+#fs-xxk{
+    position:absolute;
+    top:65px;
+    right:110px;
+    color: black;
+    font-size:32px;
+    border-bottom: 5px solid black;
+
+}
+
+/**/
+#fs-xb{
+    float:right;
+    position:absolute;
+    top:330px;
+    left:100px;
+}
+
+#fs-xc{
+    float:right;
+    position:absolute;
+    top:30px;
+    left:80px;
+}
+#fs-xd{
+    float:right;
+    position:absolute;
+    top:130px;
+    right:100px;
+}

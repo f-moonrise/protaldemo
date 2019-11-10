@@ -1,0 +1,91 @@
+div{
+	
+}
+/*取消超链接下划线*/
+a{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:none;
+}
+
+#fs-xa,fs-xb,fs-xc,fs-xd,fs-xe{
+	float:left;
+}
+#fs-xe{
+	float:right;
+}
+
+#fs-x{
+	color:paleturquoise;
+}
+/*#fs-xa{
+	color:red;;
+}
+#fs-xb{
+	color:blue;;
+}*/
+#fs-xc a{
+	display:block;
+	height:10px;
+	width:70px;
+	/*水平对齐*/
+	text-align:center;
+	color:black;;
+	float:left;
+}
+	/*输入框*/
+#fs-xd{
+	color:yellow;;
+}
+#fs-xd input{
+	height:30px;
+	width:200px;
+	border:1px #EBEBEB solid;
+	border-radius:10px;
+	padding-left:10px ;
+	float:left;
+
+}
+#fs-xd button{
+	background-color: blue;
+	border:none;
+	height:30px;
+	width:50px;
+	border-radius:10px;
+	color:white;
+	text-align:center;
+	float:left;
+
+}
+/*图标*/
+#fs-xe{
+	border:hidden;
+	height:55px;
+	width:55px;
+	background-color:#A7AFC1;
+	float:right;
+}
+#fs-xe fs-xe1{
+	height:50px;
+	width:50px;
+}
+#fs-xe fs-xe2{
+	height:100%;
+	width:100%;
+	float:left;
+
+}
+#fs-xxa{
+	color:black;
+}
+.fs-xxxa{
+    height:100px;
+	border-bottom:1px #0074E1 solid;
+	float:left;
+}
+.fs-xxxb{
+        height:100px;
+		border-bottom:1px #0074E1 solid;
+        float:left;
+}

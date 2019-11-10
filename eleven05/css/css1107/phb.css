@@ -1,0 +1,103 @@
+#fs{
+    width:700px;
+    margin:auto;
+    border:1px salmon solid;
+}
+#fs-xa{
+    width:100%;
+    height:50px;
+    background-color:#0074E1;
+    /*display:flex;*/
+    /*align-items:center;*/
+    /*justify-content:space-around;*/
+}
+
+#fs-xaa{
+    float:left;
+    margin:0;
+    font-weight:normal;
+    margin-size:30px;
+}
+#fs-xab{
+    float:left;
+}
+#fs-xac,#fs-xad{
+    colot:#666666;
+    font-size:12px;
+    margin-top:15px;
+}
+#fs-xac{
+    float:right;
+}
+#fs-xa span{
+    color:#c20c0c;
+}
+/**/
+#fs-xb{
+    height:5px;
+    width:100%;
+    background-color:#c20c0c;
+}
+/**/
+#fs-xc{
+    width:100%;
+    height:300px;
+    background-color:bisque;
+    /*display:flex;*/
+    align-items:center;
+    justify-content:space-around;
+}
+#fs-xc table{
+    border:1px solid #d9d9d9;
+    width:100%;
+}
+/*表行*/
+.fs-ssa{
+    background-color:#f7f7f7;
+}
+.fs-ssa td{
+    padding:12px 10px;
+}
+.fs-sa{
+    border-bottom:1px #DEDEDE solid;
+    border-right:1px #DEDEDE solid;
+    height:38px;
+    background-color:#f7f7f7;
+    text-align:left;
+    font-weight:normal;
+    padding-left:10px;
+    font-size:12px;
+    color:#666666;
+}
+#fs-xca{
+    background-color:#F7F7F7;
+}
+#fs-xca td{
+    padding:12px 20px;
+}
+.fs-ssb{
+    background-color:white;
+}
+#fs-xca td{
+    padding:12px 20px;
+}
+/*第一列*/
+.fs-ssaa{
+    front-size:10px;
+    color: #999999;
+}
+.ssaa1{
+    font-size:0.5em;
+    color:#358B3E;
+    margin-left:10px;
+}
+/*第二列*/
+.fs-ssab{
+    display:flex;
+    align-items:center;
+}
+.ssab1{
+    margin-right:15px;
+}
+/*第三列*/
+/*第四列*/

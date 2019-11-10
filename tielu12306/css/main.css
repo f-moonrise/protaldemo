@@ -1,3 +1,7 @@
-.a{
+body{
+    border:0px;
+    margin:0px;
+}
+a{
     text-decoration:none;
 }

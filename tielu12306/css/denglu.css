@@ -1,20 +1,20 @@
 #fs{
 
-    border:1px salmon solid;
+    /*border:1px salmon solid;*/
 }
 #fs-deng{
     height:25px;
     width:100%;
-    margin:auto;
+    /*margin:auto;*/
     background-color:blue;
     float:left;
-    margin:0px;
+    /*margin:0px;*/
     margin:auto;
 }
 #fs-deng a{
     width:35px;
     margin:auto;
-    border:1px salmon solid;
+    /*border:1px salmon solid;*/
     color:white;
     display:flex;
     align-items:center;
@@ -23,8 +23,7 @@
 #fs-xa{
     width:100px;
     height:150px;
-    border:1px salmon solid;
-    margin:auto;
+    /*border:1px salmon solid;*/
     margin:auto;
     display:flex;
     align-items:center;
@@ -36,11 +35,86 @@
     align-items:center;
 }
 #fs-xab{
-    position:relative;
-    float:left;
-    top:50px;
-    right:2px;
-    /*margin:auto;*/
-    /*display:flex;*/
-    /*align-items:center;*/
+    width:70px;
+    height:30px;
+    /*border:1px salmon solid;*/
+    margin:auto;
+    display:flex;
+    align-items:center;
+    margin-top:10px;
+}
+/*登录*/
+#fs-xb{
+    width:165px;
+    height:80px;
+    /*border:1px salmon solid;*/
+    margin:auto;
+    margin-top:50px;
+}
+#fs-xba{
+    position: relative;
+    float:right;
+    top:-18px;
+    right:8px;
+}
+#fs-xbb{
+    position: relative;
+    float:right;
+    top:-18px;
+    right:8px;
+}
+/*按钮*/
+#fs-xc{
+    width:165px;
+    height:80px;
+    /*border:1px salmon solid;*/
+    margin:auto;
+    margin-top:50px;
+}
+#fs-xca{
+    position: relative;
+    width:150px;
+    margin:auto;
+    /*border:1px salmon solid;*/
+    right:8px;
+    /*background-color:blue;*/
+    opacity: 1;
+}
+#fs-xca button{
+    height:30px;
+    width:150px;
+}
+#fs-xca a{
+    float:right;
+    position: absolute;
+    left:60px;
+    top:3px;
+}
+#fs-xcb{
+    position: relative;
+    width:150px;
+    margin:auto;
+    /*border:1px salmon solid;*/
+    top:18px;
+    right:8px;
+}
+#fs-xcb button{
+    height:30px;
+    width:150px;
+}
+#fs-xcb a{
+    float:right;
+    position: absolute;
+    left:60px;
+    top:4px;
+}
+/*忘记密码*/
+#fs-xd{
+    width:100px;
+    height:30px;
+    /*border:1px salmon solid;*/
+    margin:auto;
+    margin-top:50px;
+    text-decoration:underline;
+
 }

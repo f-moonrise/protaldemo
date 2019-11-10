@@ -1,0 +1,97 @@
+#fs-xl{
+    /*border:1px salmon solid;*/
+    height:40px;
+    width:700px;
+    /*border:1px salmon solid;*/
+    margin:auto;
+    margin-top:50px;
+
+
+}
+#fs-xh{
+    height:40px;
+    width:700px;
+    /*border:1px salmon solid;*/
+    margin:auto;
+    /*margin-top:50px;*/
+    display:flex;
+    align-items:center;
+}
+#fs-xh input{
+    height:25px;
+    width:400px;
+    /*border:2px #E2231A solid;*/
+    padding-left:15px;
+}
+#fs-xj{
+
+    float:right;
+
+    position:relative;
+    left:-25px;
+}
+#fs-xh a{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:30px;
+    width:50px;
+    float:left;
+}
+/*#fs-xk a{*/
+    /*display:flex;*/
+    /*justify-content:center;*/
+    /*align-items:center;*/
+    /*height:30px;*/
+    /*width:50px;*/
+    /*float:left;*/
+/*}*/
+#fs-xxc{
+    position:relative;
+    right:20px;
+    background-color:#E2231A;
+}
+
+#fs-xh img{
+    height:18px;
+    width:18px;
+
+}
+#fs-xxb{
+    height:30px;
+    width:90px;
+}
+#fs-xxb div{
+    height: 20px;
+    width: 20px;
+    top:-23px;
+    right:-3px;
+    color:red;
+    float:right;
+    position:relative;
+}
+#fs-xxb a{
+    font-size:10px;
+    display:flex;
+    align-items:center;
+}
+#fs-xxb img{
+    display:flex;
+    align-items:center;
+    margin-top:5px;
+
+}
+
+#fs-xi{
+
+    /*border:1px salmon solid;*/
+    margin:auto;
+    display:flex;
+    align-items:center;
+    font-size:12px;
+    display:flex;
+    justify-content:space-between;
+}
+#fs-xi a{
+    color:#999999;
+}
