@@ -3,12 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="9ac7c85d-79db-4014-8eef-7157b6b9198a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/密码.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/登录.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/denglu.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/denglu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/denglu.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/denglu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/.idea/tielu12306.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/css/denglu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/denglu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/img/12306.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +24,9 @@
   </component>
   <component name="ProjectId" id="1TS2CsSH34dz3U23LmPQ6V0g73m" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tielu12306/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573436668224</updated>
       <workItem from="1573436669734" duration="990000" />
-      <workItem from="1573439062066" duration="5568000" />
+      <workItem from="1573439062066" duration="5860000" />
     </task>
     <servers />
   </component>
