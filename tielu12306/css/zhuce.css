@@ -1,0 +1,84 @@
+#fs{
+    /*border:1px black solid;*/
+}
+#fs-xa{
+    height:25px;
+    width:100%;
+    margin:auto;
+    background-color:blue;
+    float:left;
+    bordre:0px;
+    margin:0px;
+    margin:auto;
+}
+#fs-xa a{
+    width:35px;
+    margin:auto;
+    color:white;
+    display:flex;
+    align-items:center;
+}
+#fs-xa img{
+    float:left;
+    position:relative;
+    top:-15px;
+    left:5px;
+}
+/*基本信息*/
+.fs-xb{
+    height:50px;
+    width:100%;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    background-color:gray;
+    float:left;
+    bordre:0px;
+    margin:0px;
+    margin:auto;
+    font-size:32px;
+}
+.fs-xc{
+    height:30px;
+    width:100%;
+    bordre:0px;
+    margin:0px;
+}
+.fs-xc input{
+    float:left;
+    height:35px;
+    width:100%;
+    /*border:2px #E2231A solid;*/
+    margin:0px;
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    /*border-bottom:1px;*/
+    padding-left:150px;
+    border-bottom-color: darkslategray;
+}
+.fs-xca{
+    float:left;
+    position:relative;
+    left:23px;
+    top:-30px;
+}
+.fs-xd{
+    margin:auto;
+    display:flex;
+    align-items:center;
+    width:100%;
+    height:40px;
+    /*border:1px black solid;*/
+}
+.fs-xd button{
+    margin:auto;
+    display:flex;
+    align-items:center;
+    background-color:blue;
+    color:white;
+    height:40px;
+    width:200px;
+    padding-left:70px;
+    padding-right:70px;
+}
