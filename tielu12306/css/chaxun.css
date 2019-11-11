@@ -1,0 +1,27 @@
+#fs{
+    /*border:1px salmon solid;*/
+}
+#fs-xa{
+    height:25px;
+    width:100%;
+    margin:auto;
+    background-color:blue;
+    float:left;
+    bordre:0px;
+    margin:0px;
+    margin:auto;
+}
+#fs-xa a{
+    width:35px;
+    margin:auto;
+    /*border:1px salmon solid;*/
+    color:white;
+    display:flex;
+    align-items:center;
+}
+#fs-xa img{
+    float:left;
+    position:relative;
+    top:-15px;
+    left:5px;
+}

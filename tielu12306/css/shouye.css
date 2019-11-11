@@ -1,0 +1,37 @@
+#fs{
+    width:100%;
+    height:100%;
+    border:1px black solid;
+}
+#fs-xa{
+    position: relative;
+    float:left;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    top:-115px;
+}
+#fs input{
+    float:left;
+    height:30px;
+    width:344px;
+    border-color: gray;
+}
+.fs-xab{
+    float:left;
+    position: relative;
+    right:31px;
+}
+<!--购票-->
+.fs-xb{
+
+    margin:auto;
+    display:flex;
+    align-content:center;
+    float:right;
+    position: relative;
+    width:200px;
+    height:200px;
+    border:5px black solid;
+    background-color: red;
+}

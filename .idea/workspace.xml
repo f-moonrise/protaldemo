@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ac7c85d-79db-4014-8eef-7157b6b9198a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tielu12306/css/zhuce.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/左箭头.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/zhuce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaxun.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/css/chaxun.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/扫码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/放大镜.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/消息.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/背景.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/denglu.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/denglu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/denglu.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/denglu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/css/shouye.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/shouye.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/shouye.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/shouye.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +31,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TS2CsSH34dz3U23LmPQ6V0g73m" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -75,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573436668224</updated>
       <workItem from="1573436669734" duration="990000" />
-      <workItem from="1573439062066" duration="14452000" />
+      <workItem from="1573439062066" duration="23217000" />
     </task>
     <servers />
   </component>
@@ -92,5 +99,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
