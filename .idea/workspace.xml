@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ac7c85d-79db-4014-8eef-7157b6b9198a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chaxun.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/css/chaxun.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/扫码.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/放大镜.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/消息.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/背景.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/shouye.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/shouye.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/shouye.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/shouye.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaxun.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/chaxun.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +43,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\protaldemo\tielu12306" />
       <recent name="E:\Github\protaldemo\tielu12306\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -82,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573436668224</updated>
       <workItem from="1573436669734" duration="990000" />
-      <workItem from="1573439062066" duration="23217000" />
+      <workItem from="1573439062066" duration="23541000" />
     </task>
     <servers />
   </component>
