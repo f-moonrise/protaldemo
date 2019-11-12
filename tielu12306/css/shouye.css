@@ -1,11 +1,34 @@
+body{
+   background-image: url("");
+}
+
+
+
 #fs{
     width:100%;
-    height:100%;
+    height:100px;
+    /*background-color: red;*/
+    border:1px black solid;
+
+}
+#fs-za{
+    position: relative;
+    margin:auto;
+    display: flex;
+    justify-content: space-between ;
+    margin-top:0px;
     border:1px black solid;
 }
+#fs-zb{
+    width:100%;
+    position: absolute;
+}
 #fs-xa{
+    width:100%;
     position: relative;
-    float:left;
+    /*float:left;*/
+    /*padding-left: 50px;*/
+    /*padding-right: 50px;;*/
     margin:auto;
     display:flex;
     align-items:center;
