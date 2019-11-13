@@ -18,7 +18,7 @@
 /**/
 #fs-xb{
     position: relative;
-    border:1px black solid;
+    /*border:1px black solid;*/
     /*margin-top:-179px;*/
     width:100%;
     height: 40px;
@@ -26,7 +26,7 @@
 #fs-xba{
     float: left;
     position: absolute;
-    border:1px black solid;
+    /*border:1px black solid;*/
     margin:0;
     border:0;
 }
@@ -38,8 +38,7 @@
     display: flex;
     text-align: center;
     position: absolute;
-    border:1px black solid;
-
+    /*border:1px black solid;*/
 }
 #fs-xbb input{
     width: 100%;
@@ -51,13 +50,159 @@
     /*margin-right: 30%;*/
     display: flex;
     text-align: center;
-    border:1px black solid;
-
+    /*border:1px black solid;*/
 }
 #fs-xbc{
     float: right;
-
-    position: absolute;
-    border:1px black solid;
+    position: relative;
+    margin-right: 2%;
+    margin-top: -24.5%;
+    /*padding-right: 35px;*/
+    border-top: 34px;
+    /*background-color:red;*/
+    /*z-index: 99;*/
+}
+/**/
+#fs-xc{
+    margin: auto;
+    margin-top: 10%;
+    width:80%;
+    height: 180px;
+    background-color: gray;
+    z-index: 50;
+    position: relative;
+}
+#fs-xca{
+    position: relative;
+    width:100%;
+    height: 33.3%;
+    background-color: gray;
 
 }
+#fs-xcb{
+    position: relative;
+    width:100%;
+    height: 33.3%;
+    background-color: gray;
+
+}
+#fs-xcc{
+    position: relative;
+    width:100%;
+    height: 33.3%;
+    background-color: gray;
+
+}
+/**/
+.fs-xda{
+    position: relative;
+    color:black;
+    margin-top: 3px;
+    float: left;
+    margin-left: 35px;
+}
+.fs-xdb{
+    position: relative;
+
+    color:black;
+    margin-top: 3px;
+    float: right;
+    margin-right: 35px;
+}
+.fs-xdc{
+    width:50%;
+    height: 10px;
+    position: relative;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+/**/
+#fs-xcba{
+    float:left;
+    margin-top: 3%;
+    font-size: 12px;
+    margin-left: 5%;
+
+}
+#fs-xcbb{
+    margin-right: 20%;
+    margin-left: 20%;
+    font-size: 18px;
+}
+#fs-xcbc{
+    float:right;
+    margin-top: -7%;
+    margin-right: 5%;
+}
+/**/
+#fs-xcca{
+    width:100%;
+}
+#fs-xcca a{
+    color: black;
+}
+#fs-xccb{
+    margin-left: 20%;
+    width:50%;
+    background-color: blue;
+    color:white;
+    border:0;
+}
+/**/
+#fs-xd{
+    width:100%;
+    height: 100px;
+    background-color: yellow;
+}
+#fs-xda{
+    width:100%;
+    height:50px;
+    /*border:1px black solid;*/
+    /*justify-content: center;*/
+}
+#fs-xda img{
+    margin:6%;
+    dispaly:flex;
+    margin-top: 10px;
+}
+#fs-xdb{
+    width:100%;
+    height:50px;
+    /*border:1px black solid;*/
+    /*justify-content: center;*/
+}
+#fs-xdb img{
+    margin:6%;
+    dispaly:flex;
+    margin-top: 10px;
+}
+/**/
+#fs-xe{
+    background-color: #1ffff3;
+}
+#fs-xea{
+    color: red;
+    font-size: 18px;
+}
+#fs-xeb{
+
+}
+/**/
+#fs-xf{
+    width: 100%;
+}
+#fs-xf img{
+    width: 100%;
+}
+/**/
+#fs-xg{
+    width:100%;
+}
+#fs-xga img{
+    width:50%;
+}
+#fs-xgb img{
+    margin-top: -28%;
+    float: right;
+     width:50%;
+ }
