@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ac7c85d-79db-4014-8eef-7157b6b9198a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/bei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/功能.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/日历.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/长箭头.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/背景.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/chaxun.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/chaxun.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/chaxun.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/chaxun.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/css/shouye.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/shouye.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/img/bei.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/bei.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/shouye.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/shouye.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/背景.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +81,10 @@
       <updated>1573436668224</updated>
       <workItem from="1573436669734" duration="990000" />
       <workItem from="1573439062066" duration="23589000" />
-      <workItem from="1573521407178" duration="15260000" />
+      <workItem from="1573521407178" duration="18152000" />
+      <workItem from="1573606370442" duration="5596000" />
+      <workItem from="1573619916438" duration="849000" />
+      <workItem from="1573625696555" duration="1834000" />
     </task>
     <servers />
   </component>
