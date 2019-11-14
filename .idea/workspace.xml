@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ac7c85d-79db-4014-8eef-7157b6b9198a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/模块.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/css/dingdan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/css/huiyuan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/css/people.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/dingdan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/huiyuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/已支付.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/未完成.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/汽车票.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/订单.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/people.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/bei.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/css/shouye.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/shouye.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/img/功能.png" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/img/功能.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/shouye.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/shouye.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,15 +54,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Github\protaldemo\tielu12306\img" />
-      <recent name="E:\Github\protaldemo\tielu12306" />
-      <recent name="E:\Github\protaldemo\tielu12306\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Github\protaldemo\tielu12306\img" />
       <recent name="E:\Github\protaldemo\tielu12306" />
       <recent name="E:\Github\protaldemo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\protaldemo\tielu12306\img" />
+      <recent name="E:\Github\protaldemo\tielu12306" />
+      <recent name="E:\Github\protaldemo\tielu12306\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -84,7 +92,9 @@
       <workItem from="1573521407178" duration="18152000" />
       <workItem from="1573606370442" duration="5596000" />
       <workItem from="1573619916438" duration="849000" />
-      <workItem from="1573625696555" duration="11768000" />
+      <workItem from="1573625696555" duration="12294000" />
+      <workItem from="1573658404091" duration="227000" />
+      <workItem from="1573727052225" duration="5203000" />
     </task>
     <servers />
   </component>
