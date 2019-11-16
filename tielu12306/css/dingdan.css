@@ -1,5 +1,5 @@
 #fs{
-    border:1px salmon solid;
+    /*border:1px salmon solid;*/
 }
 #fs-xa{
     height:25px;
@@ -26,7 +26,7 @@
 }
 
 #fs-xb{
-    border:1px salmon solid;
+    /*border:1px salmon solid;*/
 }
 #fs-xba{
     font-size: 20px;
@@ -62,31 +62,30 @@
 }
 
 #fs-xe{
-    height: 200px;
+    height: 400px;
     width: 100%;
-    border:1px black solid;
+    /*border:1px black solid;*/
 }
 .fs-xea{
-    height: 25%;
+    height: 40px;
     width: 100%;
-    border:1px black solid;
-
+    /*border:1px black solid;*/
 }
 #fs-xeb{
-    height: 25%;
+    height: 40px;
     width: 100%;
-    border:1px black solid;
+    /*border:1px black solid;*/
 
 }
 #fs-xec{
-    height: 25%;
+    height: 40px;
     width: 100%;
-    border:1px black solid;
+    /*border:1px black solid;*/
 
 }
 #fs-xed{
-    height: 25%;
+    height: 40px;
     width: 100%;
-    border:1px black solid;
+    /*border:1px black solid;*/
 
 }

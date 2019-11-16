@@ -2,19 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ac7c85d-79db-4014-8eef-7157b6b9198a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tielu12306/css/dingdan.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/css/huiyuan.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/css/people.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/dingdan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/huiyuan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/已支付.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/未完成.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/汽车票.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/订单.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/people.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/_酒店.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/休息室.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/会员信息.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/保险.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/出行服务1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/受让人.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/右箭头.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/我的1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/我的积分.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/消费密码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/订单1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/铁路会员1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/问号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/餐饮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/首页1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tielu12306/img/高铁.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/bei.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/chaxun.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/chaxun.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/css/denglu.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/denglu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/css/dingdan.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/dingdan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/css/huiyuan.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/huiyuan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/css/people.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/people.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/css/shouye.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/shouye.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/css/zhuce.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/zhuce.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/denglu.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/denglu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/dingdan.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/dingdan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/huiyuan.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/huiyuan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/people.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/shouye.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/shouye.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/zhuce.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/zhuce.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -94,7 +112,13 @@
       <workItem from="1573619916438" duration="849000" />
       <workItem from="1573625696555" duration="12294000" />
       <workItem from="1573658404091" duration="227000" />
-      <workItem from="1573727052225" duration="5203000" />
+      <workItem from="1573727052225" duration="5803000" />
+      <workItem from="1573737895675" duration="129000" />
+      <workItem from="1573814966940" duration="5000" />
+      <workItem from="1573818790099" duration="574000" />
+      <workItem from="1573828817648" duration="306000" />
+      <workItem from="1573829510545" duration="733000" />
+      <workItem from="1573866674128" duration="9160000" />
     </task>
     <servers />
   </component>

@@ -9,3 +9,24 @@ div{
     margin:0px;
     border:0px;
 }
+
+.fs-xy{
+    background-color: #1ffff3;
+    position: absolute;
+    bottom:0 ;
+    float: right;
+    height: 50px;
+    width: 100%;
+    border:1px black solid;
+}
+.fs-xya{
+    float: left;
+    margin-left: 8%;
+}
+.fs-xya a{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: -28px;
+    font-size: 12px;
+}
+
