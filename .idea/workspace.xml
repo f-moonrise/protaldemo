@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ac7c85d-79db-4014-8eef-7157b6b9198a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/_酒店.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/休息室.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/会员信息.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/保险.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/出行服务1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/受让人.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/右箭头.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/我的1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/我的积分.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/消费密码.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/订单1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/铁路会员1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/问号.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/餐饮.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/首页1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tielu12306/img/高铁.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/chaxun.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/chaxun.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/denglu.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/denglu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/css/dingdan.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/dingdan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/huiyuan.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/huiyuan.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/people.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/people.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/css/shouye.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/shouye.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/zhuce.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/zhuce.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/denglu.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/denglu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/dingdan.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/dingdan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/huiyuan.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/huiyuan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/people.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/shouye.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/shouye.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/zhuce.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/zhuce.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,6 +93,7 @@
       <workItem from="1573828817648" duration="306000" />
       <workItem from="1573829510545" duration="733000" />
       <workItem from="1573866674128" duration="9160000" />
+      <workItem from="1574037278348" duration="1285000" />
     </task>
     <servers />
   </component>

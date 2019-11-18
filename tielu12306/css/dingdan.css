@@ -45,8 +45,12 @@
     height: 65px;
     display: flex;
     text-align: center;
-    background-color: yellow;
+    background-color: #1ffff3;
     justify-content: space-between;
+}
+#fs-xc img{
+    width: 50%;
+    height: 100%;
 }
 #fs-xda img{
 
