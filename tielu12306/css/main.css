@@ -21,7 +21,8 @@ div{
 }
 .fs-xya{
     float: left;
-    margin-left: 8%;
+    /*margin-left: 8%;*/
+    margin-left: 12%;
 }
 .fs-xya a{
     position: absolute;

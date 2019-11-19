@@ -71,6 +71,11 @@
     height:40px;
     /*border:1px black solid;*/
 }
+.fs-xd a{
+    margin:auto;
+    display:flex;
+    align-items:center;
+}
 .fs-xd button{
     margin:auto;
     display:flex;

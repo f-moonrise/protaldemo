@@ -3,10 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9ac7c85d-79db-4014-8eef-7157b6b9198a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/dingdan.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/dingdan.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tielu12306/css/shouye.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/shouye.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/css/zhuce.css" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/css/zhuce.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/dingdan.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/dingdan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/huiyuan.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/huiyuan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/people.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tielu12306/shouye.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/shouye.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tielu12306/zhuce.html" beforeDir="false" afterPath="$PROJECT_DIR$/tielu12306/zhuce.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +97,8 @@
       <workItem from="1573829510545" duration="733000" />
       <workItem from="1573866674128" duration="9160000" />
       <workItem from="1574037278348" duration="1285000" />
+      <workItem from="1574124721445" duration="2665000" />
+      <workItem from="1574139838472" duration="601000" />
     </task>
     <servers />
   </component>
